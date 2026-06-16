@@ -13,9 +13,9 @@ The suite consists of three components that work together:
 
 | Component | Role |
 |-----------|------|
-| **[Tino Wizard](Wizard/)** | The developer tool — design and build installers via a GUI |
-| **[Tino Installer](Wizard/Installer/)** | The end-user installer engine — guided graphical installation |
-| **[Tino Uninstaller](Wizard/Uninstaller/)** | The end-user uninstaller — clean graphical removal |
+| **[Tino Wizard](https://github.com/Tino-Setup/Tino-Wizard)** | The developer tool — design and build installers via a GUI |
+| **[Tino Installer](https://github.com/Tino-Setup/Tino-Installer)** | The end-user installer engine — guided graphical installation |
+| **[Tino Uninstaller](https://github.com/Tino-Setup/Tino-Uninstaller)** | The end-user uninstaller — clean graphical removal |
 
 ---
 
